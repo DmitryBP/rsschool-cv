@@ -18,7 +18,11 @@
 
 ---
 
-### Summary
+## Summary
+
+***Basic Education:***
+Institute of Engineering Technologies (PET), Saint Petersburg, Russia 2004 - 2010
+Specialty: Machine Building Engineer
 
 I am a driven and successful professional with extensive experience in project management within the construction industry. My ability to effectively plan, coordinate, and motivate teams, combined with my deep understanding of construction processes, has enabled me to achieve outstanding results in various projects.
 
@@ -30,17 +34,9 @@ At present, I am pursuing education at online schools Netology and RS School to 
 
 > This section highlights my official certifications and achievements that demonstrate my competence and experience in various fields. I believe that these documents and accolades showcase my commitment to continuous learning and self-improvement, as well as my professional growth and successes throughout my career.
 
-### Certifications:
-Вводный курс в профессию Frontend-разработчик
-HTML-верстка: с нуля до первого макета
-Адаптивная и мобильная верстка
-Основы программирования
-Git — система контроля версий
-Основы JavaScript
-Основы JavaScript в браузере
-Продвинутый JavaScript: современные возможности языка
+## Certifications:
 
-[Netology.ru Frontend Developer (from scratch)](https://netology.ru/profile/program/fe-43/schedule)
+[Netology.ru](https://netology.ru/profile/program/fe-43/schedule) - Frontend Developer (from scratch)
  
   - [Introduction to Frontend Development Course](https://netology.ru/sharing/937aa7306b88954003d8f71e9dd63dee?utm_source=social&utm_campaign=certificate_lms )
   - [HTML Fundamentals](https://netology.ru/sharing/229120fba09cd24e3315d510de053351?utm_source=social&utm_campaign=certificate_lms )
@@ -51,31 +47,58 @@ Git — система контроля версий
   - [JavaScript in the Browser](https://netology.ru/sharing/494ff981e26d035994eeaf166061ea9d?utm_source=social&utm_campaign=certificate_lms )
   - [Advanced JavaScript](https://netology.ru/sharing/ad52ea610607dce3fa0384c474acfe6c?utm_source=social&utm_campaign=certificate_lms )
 
-### Achievements:
+## Achievements and progects:
+
 - I am honing my programming skills daily by solving challenges on [codewars.com](https://www.codewars.com/users/rsschool_a675639c106a4681)
   
-  ![codewarsBage](https://www.codewars.com/users/rsschool_a675639c106a4681/badges/micro)
+   ![codewarsBage](https://www.codewars.com/users/rsschool_a675639c106a4681/badges/micro)
+
+>Here's an example solution in JavaScript:
+
+  ```javascript
+  function disemvowel(str) {
+    const vowelsArr = ['a', 'e', 'i', 'o', 'u'];
+    for (let i = 0; i < vowelsArr.length; i++) {
+      str = str
+        .split('')
+        .filter((el) => el !== vowelsArr[i] && el !== vowelsArr[i].toUpperCase())
+        .join('');
+    }
   
-### Additional Skills:
-Mention any additional skills related to your profession that you have acquired through learning or self-study.
-For example, knowledge of foreign languages, mastery of specialized software tools, or public speaking skills.
+    return str;
+  }
+  ```
 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+- Course Project for HTML Fundamentals (Simple Website Made with HTML and CSS) [loock at codepen](https://codepen.io/TD_Coder/full/vYZOJXM)
+- Course Project for Responsive and Mobile Web Design (Responsive Website)
+
+  - [View Site on GitHub Pages](https://dmitrybp.github.io/MQ_Diplom/)
+ 
+  - [loock code at gitHab](https://github.com/DmitryBP/MQ_Diplom)
+  
+- Course Project for Programming Fundamentals ( X_O Game )
+  
+  - [Play on GitHub Pages](https://github.com/DmitryBP/Netology-diplom-XO)
+ 
+  - [loock code at gitHab](https://github.com/DmitryBP/MQ_Diplom)
+  
+- Course Project for JavaScript Fundamentals (My task in this simple server application was to enable communication between the graphical and server parts through API)
+
+  - [loock code at gitHab](https://github.com/DmitryBP/bjs-diplom/tree/solution2024)
+    
+- Course Project for HTML JavaScript in the Browser (Financial Planning App built with Vanilla JS)
+
+ - [loock code at gitHab](https://github.com/DmitryBP/bhj-diploma/tree/solution2024)
 
 
+## Additional Skills:
+- Testing: Jest;
+- Linter: ESLint;
+- Continuous Integration;
+- WebPack;
+- ...
 
-Рекомендации к составлению CV:
-оформление CV на ваше усмотрение. Старайтесь выполнить работу максимально качественно. При выборе дизайна CV можно руководствоваться примерами, приведёнными в материалах к заданию
-CV составляется на английском языке.
-при составлении CV рекомендуется указывать реальные данные
-в CV добавьте своё фото или аватарку. Фото предпочтительнее
-в CV укажите актуальные контакты для связи, в т.ч никнейм на дискорд-сервере rs school
-в качестве примера кода приведите решение задачи с сайта Codewars.
-Если решённых задач пока нет, подойдёт задача, которую нужно решить при регистрации на Codewars
-код добавляется при помощи символов и тегов, а не картинкой
-для выполненных проектов добавьте название проекта, ссылку на код проекта на гитхабе или ссылку на страницу проекта.
-Если выполненных проектов пока нет, в качестве первого проекта укажите само CV
+ ## Languages
+**Russian** - native
+ 
+**English** - intermediate
