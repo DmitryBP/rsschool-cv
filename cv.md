@@ -31,7 +31,26 @@ At present, I am pursuing education at online schools Netology and RS School to 
 > This section highlights my official certifications and achievements that demonstrate my competence and experience in various fields. I believe that these documents and accolades showcase my commitment to continuous learning and self-improvement, as well as my professional growth and successes throughout my career.
 
 ### Certifications:
-- [Netology.ru Frontend Developer (from scratch)](https://netology.ru/profile/program/fe-43/schedule)
+Вводный курс в профессию Frontend-разработчик
+HTML-верстка: с нуля до первого макета
+Адаптивная и мобильная верстка
+Основы программирования
+Git — система контроля версий
+Основы JavaScript
+Основы JavaScript в браузере
+Продвинутый JavaScript: современные возможности языка
+
+[Netology.ru Frontend Developer (from scratch)](https://netology.ru/profile/program/fe-43/schedule)
+ 
+  - [Introduction to Frontend Development Course](https://netology.ru/sharing/937aa7306b88954003d8f71e9dd63dee?utm_source=social&utm_campaign=certificate_lms )
+  - [HTML Fundamentals](https://netology.ru/sharing/229120fba09cd24e3315d510de053351?utm_source=social&utm_campaign=certificate_lms )
+  - [Responsive and Mobile Web Design](https://netology.ru/sharing/fbde8f44e9ddd88733eef1d4156ece35?utm_source=social&utm_campaign=certificate_lms )
+  - [Programming Fundamentals](https://netology.ru/sharing/8c7b152d9a7d775d0da0204072f9a47b?utm_source=social&utm_campaign=certificate_lms )
+  - [Git - Version Control System](https://netology.ru/sharing/4e7e250a91c0bdc786e02b0d4b903752?utm_source=social&utm_campaign=certificate_lms )
+  - [JavaScript Fundamentals](https://netology.ru/sharing/399213029776539db7215b636f8e2167?utm_source=social&utm_campaign=certificate_lms )
+  - [JavaScript in the Browser](https://netology.ru/sharing/494ff981e26d035994eeaf166061ea9d?utm_source=social&utm_campaign=certificate_lms )
+  - [Advanced JavaScript](https://netology.ru/sharing/ad52ea610607dce3fa0384c474acfe6c?utm_source=social&utm_campaign=certificate_lms )
+
 ### Achievements:
 - I am honing my programming skills daily by solving challenges on [codewars.com](https://www.codewars.com/users/rsschool_a675639c106a4681)
   
