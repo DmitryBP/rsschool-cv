@@ -49,7 +49,13 @@ At present, I am pursuing education at online schools Netology and RS School to 
 
 ## Achievements and progects:
 
-- I am honing my programming skills daily by solving challenges on [codewars.com](https://www.codewars.com/users/rsschool_a675639c106a4681)
+***HTML Academy***
+  
+  [Progress](https://htmlacademy.ru/profile/id39251): 67 Parts of simulators 1321 Task
+
+***CODEWARS.COM***
+
+I am honing my programming skills daily by solving challenges on [codewars.com](https://www.codewars.com/users/rsschool_a675639c106a4681)
   
    ![codewarsBage](https://www.codewars.com/users/rsschool_a675639c106a4681/badges/micro)
 
@@ -68,25 +74,27 @@ At present, I am pursuing education at online schools Netology and RS School to 
     return str;
   }
   ```
+***[Netology.ru](https://netology.ru/profile/program/fe-43/schedule) - Frontend Developer (from scratch)***
 
-- Course Project for HTML Fundamentals (Simple Website Made with HTML and CSS) [loock at codepen](https://codepen.io/TD_Coder/full/vYZOJXM)
-- Course Project for Responsive and Mobile Web Design (Responsive Website)
+Course Project for HTML Fundamentals (Simple Website Made with HTML and CSS) [loock at codepen](https://codepen.io/TD_Coder/full/vYZOJXM)
+
+Course Project for Responsive and Mobile Web Design (Responsive Website)
 
   - [View Site on GitHub Pages](https://dmitrybp.github.io/MQ_Diplom/)
  
   - [loock code at gitHab](https://github.com/DmitryBP/MQ_Diplom)
   
-- Course Project for Programming Fundamentals ( X_O Game )
+ Course Project for Programming Fundamentals ( X_O Game )
   
   - [Play on GitHub Pages](https://github.com/DmitryBP/Netology-diplom-XO)
  
   - [loock code at gitHab](https://github.com/DmitryBP/MQ_Diplom)
   
-- Course Project for JavaScript Fundamentals (My task in this simple server application was to enable communication between the graphical and server parts through API)
+ Course Project for JavaScript Fundamentals (My task in this simple server application was to enable communication between the graphical and server parts through API)
 
   - [loock code at gitHab](https://github.com/DmitryBP/bjs-diplom/tree/solution2024)
     
-- Course Project for HTML JavaScript in the Browser (Financial Planning App built with Vanilla JS)
+ Course Project for HTML JavaScript in the Browser (Financial Planning App built with Vanilla JS)
 
  - [loock code at gitHab](https://github.com/DmitryBP/bhj-diploma/tree/solution2024)
 
@@ -98,7 +106,8 @@ At present, I am pursuing education at online schools Netology and RS School to 
 - WebPack;
 - ...
 
- ## Languages
+ ## Languages:
+ 
 **Russian** - native
  
 **English** - intermediate
