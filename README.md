@@ -1,1 +1,3 @@
-[Dmitry Telpish CV](https://DmitryBP.github.io/rsschool-cv/)
+[CV md](https://DmitryBP.github.io/rsschool-cv/cv)
+
+[CV HTML](https://DmitryBP.github.io/rsschool-cv/)
