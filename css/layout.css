@@ -9,6 +9,10 @@ a {
   color: black;
 }
 
+ul {
+  margin-left: 12px;
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
