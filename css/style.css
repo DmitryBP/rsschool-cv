@@ -50,6 +50,9 @@ h3 {
   font-size: 12px;
   margin-bottom: 5px;
 }
+h4 {
+  display: inline;
+}
 
 footer {
   background-color: rgba(0, 0, 0, 0.2);
