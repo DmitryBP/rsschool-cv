@@ -1,7 +1,6 @@
 # Dmitry Telpish 
-![My_foto](https://github.com/user-attachments/assets/69e1857c-a672-4e64-a2ad-94ce8a79953c)
 
-
+![photo Dmitry Telpish](./assets/img/cv_md_logo.png)
 ### Contacts
 
 ---
