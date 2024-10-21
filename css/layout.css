@@ -16,8 +16,10 @@ ul {
 .wrapper {
   display: flex;
   flex-direction: column;
+
   width: 595px;
-  height: 842px;
+  height: 1684px;
+
   margin: 0 auto;
   border: 1px solid rgba(0, 0, 0, 0.2);
 }
@@ -25,13 +27,16 @@ ul {
 header {
   display: flex;
   justify-content: space-between;
+
   height: 80px;
+
   padding: 15px 32px;
 }
 
 main {
-  padding: 0 32px;
   position: relative;
+
+  padding: 0 32px;
 }
 
 .contact-row {
@@ -71,6 +76,29 @@ section {
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
+}
+
+.two-coll__img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 258px;
+ 
+}
+
+.two-coll__img {
+  width: 120px;
+}
+
+.two-coll__description {
+  width: 258px;
+}
+
+.two-coll__description-title {
+  display: inline;
+}
+.two-coll__description-text {
+  display: inline;
 }
 
 .coll {
