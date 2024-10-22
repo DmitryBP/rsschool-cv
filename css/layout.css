@@ -75,6 +75,7 @@ section {
 .two-coll {
   display: flex;
   justify-content: space-between;
+  width: 530px;
   margin-top: 20px;
 }
 
@@ -83,15 +84,13 @@ section {
   justify-content: center;
   align-items: center;
   width: 258px;
- 
-}
-
-.two-coll__img {
-  width: 120px;
 }
 
 .two-coll__description {
   width: 258px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .two-coll__description-title {
@@ -99,6 +98,13 @@ section {
 }
 .two-coll__description-text {
   display: inline;
+}
+
+.two-coll__description-git-button {
+  display: inline-block;
+  margin: auto;
+  width:50px;
+  border-radius: 50%;
 }
 
 .coll {
@@ -110,7 +116,7 @@ section {
   justify-content: space-between;
 }
 
-.quote-wrapper {
+.quote {
   display: flex;
 }
 

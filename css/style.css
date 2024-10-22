@@ -41,7 +41,7 @@ header {
   margin: 15px 0;
 }
 
-.quote-line {
+.quote__line {
   height: 30px;
   width: 0px;
   border: 5px solid rgba(0, 0, 0, 0.2);
@@ -62,4 +62,16 @@ h4 {
 
 footer {
   background-color: rgba(0, 0, 0, 0.2);
+}
+
+.link-text:hover {
+  text-decoration: underline;
+}
+
+.two-coll__description-git-button:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+.two-coll__description-link {
+  margin: auto;
 }
