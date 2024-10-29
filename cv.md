@@ -34,7 +34,14 @@ At present, I am pursuing education at online schools Netology and RS School to 
 
 > This section highlights my official certifications and achievements that demonstrate my competence and experience in various fields. I believe that these documents and accolades showcase my commitment to continuous learning and self-improvement, as well as my professional growth and successes throughout my career.
 
+
+### CSS project list
+- [Shelter (Css BAM)](#)
+
+  
 ## Certifications:
+
+
 
 [Netology.ru](https://netology.ru/profile/program/fe-43/schedule) - Frontend Developer (from scratch)
  
@@ -104,6 +111,7 @@ Course Project for Responsive and Mobile Web Design (Responsive Website)
 - Linter: ESLint;
 - Continuous Integration;
 - WebPack;
+- BAM
 - ...
 
  ## Languages:
